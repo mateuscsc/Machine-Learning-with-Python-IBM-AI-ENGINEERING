@@ -1,5 +1,5 @@
 # Final project Module Machine Learning with Python
-### Informações sobre o curso
+### Information about the course
 
 This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
 In this course, we will be reviewing two main components:
